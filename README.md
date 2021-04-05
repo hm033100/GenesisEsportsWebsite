@@ -69,7 +69,7 @@ The Genesis Esports application consists of the React App, Spring App and the Mo
 
 <h3>Logical Diagram</h3>
 <p align="center">
-  <img width="60%" src="img/logical.PNG">
+  <img width="60%" src="img/logical.png">
 </p>
 
 <h1>Key Technical Design Decisions</h1>
@@ -80,5 +80,14 @@ To deploy the application, Heroku supports these Spring Boot and was chosen due 
 <h1>Diagrams of GenesisEsports</h1>
 <h3>Physical Diagram</h3>
 <p align="center">
-  <img width="60%" src="img/logical.PNG">
+  <img width="60%" src="img/physical.png">
 </p>
+<h3>Physical Diagram</h3>
+<p align="center">
+  <img width="60%" src="img/uml.png">
+</p>
+<h3>Physical Diagram</h3>
+<p align="center">
+  <img width="60%" src="img/sitemap.png">
+</p>
+
