@@ -78,16 +78,19 @@ The technologies used for this project have changed throughout the planning phas
 To deploy the application, Heroku supports these Spring Boot and was chosen due to experience as well as it has easy to implement configurations regarding the MongoDB Database, AWS Amplify supports React very well for deployment. The database will be hosted on its unique cloud (DBaaS), which is Atlas MongoDB and will be accessed through a tool that is called MongoDB Compass. 
 
 <h1>Diagrams of GenesisEsports</h1>
-<h3>Physical Diagram</h3>
+
 <p align="center">
+  <h3>Physical Diagram</h3>
   <img width="60%" src="img/physical.png">
 </p>
-<h3>Physical Diagram</h3>
+
 <p align="center">
+  <h3>UML Diagram</h3>
   <img width="60%" src="img/uml.png">
 </p>
-<h3>Physical Diagram</h3>
+
 <p align="center">
+  <h3>Sitemap Diagram</h3>
   <img width="60%" src="img/sitemap.png">
 </p>
 
