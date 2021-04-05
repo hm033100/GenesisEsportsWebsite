@@ -4,7 +4,7 @@
 </p>
 <h1>Overview </h1>
 <h3>Description</h3>
-The project consists of two main applications, an Apple Watch app and a website. The combination of these two applications provide a user with a more informational and interactive interface to display the user’s heart rate data. From the user’s Apple Watch the application will send the heart rate information collected by it and send the data to the website. The website will be able to display the collected information such as the current heart rate and view past heart rate data entries. The website will also offer inputs to select certain period of time to display that on a table and chart for visual aid. Overall this project is to be able to get more use of the information collected on a person smart watch. 
+Esports is a popular industry today, it is defined as the competitive scene of video games online and a lot of people love to compete in such places. The Esports Tournament Website, is an online web application that will help users online connect with friends, make teams, and compete in a high-level setting. The user will be able to create their own profile and either make a team or join one.  On the admin side of the webpage, admins will be able to create leagues for these players so the teams can join and compete to win prizes and gain popularity among the ranks.
 <h3>Technologies Used</h3>
 <p align="center">
   <img width="60%" src="Photo/Technologies.png">
