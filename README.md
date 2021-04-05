@@ -1,6 +1,6 @@
-# GenesisEsports <img height="25px" src="img/tech.PNG">
+# GenesisEsports <img height="25px" src="img/logo.PNG">
 <p align="center">
-  <img width="60%" src="img/tech.PNG">
+  <img width="60%" src="img/logo.PNG">
 </p>
 <h1>Overview </h1>
 <h3>Description</h3>
