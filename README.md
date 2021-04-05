@@ -32,19 +32,19 @@ The Esports Tournament Website, is an online web application that will help user
   </blockquote>
   <b>Node.JS</b>
   <blockquote>
-    Node.JS was a technology that I used primarily for the node package manager, which was used in my react application. This         event driven architecture fit in perfectly with the application that I developed and was able to assist for a simple and good     design.
+    Node.JS was a technology that was used primarily for the node package manager, which was used in the react application. This event driven architecture fit in perfectly with the application that was developed and was able to assist for a simple and good design.
   </blockquote>
   <b>Visual Studio Code</b>
   <blockquote>
-    Visual Studio Code is a easy to use and intuitive code editor that is wildly popular among developers. In my application I       used it in order to develop my React application. It provided alot of extensions that were helpful throughout development.
+    Visual Studio Code is a easy to use and intuitive code editor that is wildly popular among developers. In this application it was used in order to develop the React application. It provided alot of extensions that were helpful throughout development.
   </blockquote>
   <b>MongoDB</b>
   <blockquote>
-    Unlike other database technologies, MongoDb is a document based database that is built on the scale-out architecture. It provides horizontal scalibility which will allow high volume of data and trafic. My application with the event driven architecture has alot of calls that are made to the database, and this NoSQL database was proven to be efficient and most useful.
+    Unlike other database technologies, MongoDb is a document based database that is built on the scale-out architecture. It provides horizontal scalibility which will allow high volume of data and trafic. This application with the event driven architecture has alot of calls that are made to the database, and this NoSQL database was proven to be efficient and most useful.
   </blockquote>
   <b>GitHub</b>
   <blockquote>
-    GitHub is an open source code reopsitory that uses the git technology for revision controls and runs in command line interface. It is the most popular source control software in the world and that is due to the simplicity and professinal look that the website has. It is simple to use both as a developer and as a user who is just viewing code. I used GitHub in order to simply store my code online and connect my clouds to my repository in order to deploy.
+    GitHub is an open source code reopsitory that uses the git technology for revision controls and runs in command line interface. It is the most popular source control software in the world and that is due to the simplicity and professinal look that the website has. It is simple to use both as a developer and as a user who is just viewing code. GitHub was used in order to simply store the applications code online and connect the clouds to the repository in order to deploy.
   </blockquote>
  </details>
  <h1>High-level Functional and Non-functional Requirements</h1>
@@ -52,3 +52,8 @@ The Esports Tournament Website, is an online web application that will help user
   The GenesisEsports application supports alot of high-level functional requirments throughout the application. The Website is build with a Spring Boot application as a REST Service with full CRUD functionality for User, Teams, Leagues and Matches. Once a User is logged in they have the ability to Login or Register, once in the application the user then will have the choice to join a team or create a team and depending where they are in the application they will be prompted that some settings are limited so they will be asked to join a team. On the admin side the admin can create a league and will allow the team leaders to join a league. Once a league has teams in it the admin will be able to lock it, enabeling the application to create matches based on how many teams there are in the league.
   <h3>Non-functional Requirements</h3>
   The GenesisEsports application has simple Non-Functional reqirements such as page responsiness and availibility. The client side react application has pages built with MaterialUI therefore making the pages responsive. The application is deployed on Heroku and AWS Amplify, making it availible to the client at all times and easily recoverable.
+<h1>GenesisEsport on the Cloud</h1>
+<h3>AWS Amplify</h3>
+GenesisEsports client side application is hosted on the AWS Service, Amplify. This cloud was easy to use and had a simple deployment UI. This allowed me to focus more on the development of the appliction, the cloud service did not cause any issues and supports fault tolerance in case the application breaks within the code. 
+<h3>Heroku</h3>
+Heroku was used for a heavy application which was built with Spring Boot, the business 
