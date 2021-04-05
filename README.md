@@ -66,8 +66,19 @@ MongoDB was the easiest database system that I have learned. I chose it because 
 This technology was not new to me, I have had experience with spring and wanted to use the more popular version of it since it is one my my preferred frameworks for website development.
 <h1>General Technical Approach</h1>
 The Genesis Esports application consists of the React App, Spring App and the MongoDB Database which is stored in Atlas MongoDB Cloud.The React application will be deployed on AWS Amplify and the Spring Boot application is stored in Heroku Cloud both will be in separate clouds and will communicate with each other through a REST API by using Axios commands. React will be considered the front end, it will display and render pages to create a flow for the website and all the data handling will happen in the Spring App. The Spring App is considered the business layer, which will contain all the services for the application and will communicate with the database to complete the requests sent by the front end. Lastly, MongoDB will store all the data, making it the database of the application and it will be on the cloud as well, MongoDB will allow the developers to access its unique repository operations so that no SQL commands need to be programmed. 
+
+<h3>Logical Diagram</h3>
+<p align="center">
+  <img width="60%" src="img/logical.PNG">
+</p>
+
 <h1>Key Technical Design Decisions</h1>
 The technologies used for this project have changed throughout the planning phase and some of the design decisions for compatibility reasons, but currently what has been chosen is final. For the front end React JS will be used to implement the front end of the application, this front end JavaScript language will provide a clean and approachable design for the application as well as the powerful capabilities that it has makes it easier to implement with frameworks such as spring. React will be combined with Material UI to make the front end responsive as well as to have a cleaner design. In the backend for the business service, Spring Framework is going to be used, it is a relatively new framework still and it was mostly chosen due to experience with it as well as it being compatible with React and MongoDB, which were high priority technologies that were planned to implement. For the Data Layer, MongoDB is the database that is going to be used and the reason for using it is due to the NoSQL implementation that it has, as a developer wanting to learn technologies like this is important to keep up with the industry as well as it has the repository operations which will make it more efficient to use. 
 
 To deploy the application, Heroku supports these Spring Boot and was chosen due to experience as well as it has easy to implement configurations regarding the MongoDB Database, AWS Amplify supports React very well for deployment. The database will be hosted on its unique cloud (DBaaS), which is Atlas MongoDB and will be accessed through a tool that is called MongoDB Compass. 
 
+<h1>Diagrams of GenesisEsports</h1>
+<h3>Physical Diagram</h3>
+<p align="center">
+  <img width="60%" src="img/logical.PNG">
+</p>
