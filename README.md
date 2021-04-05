@@ -53,6 +53,10 @@ The Esports Tournament Website, is an online web application that will help user
   <h3>Non-functional Requirements</h3>
   The GenesisEsports application has simple Non-Functional reqirements such as page responsiness and availibility. The client side react application has pages built with MaterialUI therefore making the pages responsive. The application is deployed on Heroku and AWS Amplify, making it availible to the client at all times and easily recoverable.
 <h1>GenesisEsport on the Cloud</h1>
+<p align="center">
+  <h3>Deployment Diagram</h3>
+  <img width="60%" src="img/deployment.png">
+</p>
 <h3>AWS Amplify</h3>
 GenesisEsports client side application is hosted on the AWS Service, Amplify. This cloud was easy to use and had a simple deployment UI. This allowed me to focus more on the development of the appliction, the cloud service did not cause any issues and supports fault tolerance in case the application breaks within the code. 
 <h3>Heroku</h3>
