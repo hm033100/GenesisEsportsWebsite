@@ -11,7 +11,7 @@ The Esports Tournament Website, is an online web application that will help user
 <p align="center">
   <img width="60%" src="img/tech.PNG">
 </p>
-<h3>Why These?</h3>
+<h3>Click for more information about technologies used!</h3>
 <details>
   <summary>Click to Expand</summary>
   <b>React JS</b>
