@@ -20,17 +20,4 @@ Esports is a popular industry today, it is defined as the competitive scene of v
   <blockquote>
     Spring is one of the most popular Java-Based frameworks to build enterprise applications, different from other frameworks that focus on only a single area of development Spring Framework will allow a user a veriety of features such as: REST, XML/Annotation/Java based configuration, bean injetion and many more. I used Spring Boot to build my REST service which was simple and clear to use. 
   </blockquote>
-    
-</details>
-<h3>Applications Functionality</h3>
-<b>Web Application</b>
-  1. Sign in using the users Apple ID
-  2. View heart rate data that was recorded by the users apple watch
-  3. Have a table and graph displaying the data
-  4. Have the average and last recored heart rate displayed to the user
-  5. Select heart rates from a certian time period
-  6. Download all heart rate information from the users account
-<b>Apple Watch Application</b>
-  1. Sign in using the users Apple ID
-  2. Start recording heart rate data to the iHeartRate applicaiton
-  3. Stop recording the heart rate information
+  
