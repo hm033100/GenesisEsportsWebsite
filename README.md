@@ -11,7 +11,7 @@ The Esports Tournament Website, is an online web application that will help user
 <p align="center">
   <img width="60%" src="img/tech.PNG">
 </p>
-<h3>Click for more information about technologies used!</h3>
+<h3>Click below for more information about technologies used!</h3>
 <details>
   <summary>Click to Expand</summary>
   <b>React JS</b>
@@ -24,27 +24,27 @@ The Esports Tournament Website, is an online web application that will help user
   </blockquote>
   <b>AWS Amplify</b>
   <blockquote>
-    Hello
+    AWS Amplify is designed to be a package of tools and services that will make it easy for a developer to deply their application. It includes code libraries, ready-to-use components and a built in CLI. The friendly UI and self explanitory CLI makes it a friendly tool for developers to use this AWS Service. Some of the features that I liked about this cloud were the Data Storage, Analytics, Notifications, Authentication and last but not least the cost is fair and amazing for developers to deploy their personal projects.
   </blockquote>
   <b>Heroku</b>
   <blockquote>
-    Hello
+    Heroku is a Platform as a Service (PaaS), a cloud that handles the deployment, managment and scalibility of most moderin apps. The platform is easy to use and offers the simplest deployment UI, but it also has its own CLI as well. It is fully managed on its own givint the developers the freedome to work on their own application.
   </blockquote>
   <b>Node.JS</b>
   <blockquote>
-    Hello
+    Node.JS was a technology that I used primarily for the node package manager, which was used in my react application. This         event driven architecture fit in perfectly with the application that I developed and was able to assist for a simple and good     design.
   </blockquote>
   <b>Visual Studio Code</b>
   <blockquote>
-    Hello
+    Visual Studio Code is a easy to use and intuitive code editor that is wildly popular among developers. In my application I       used it in order to develop my React application. It provided alot of extensions that were helpful throughout development.
   </blockquote>
   <b>MongoDB</b>
   <blockquote>
-    Hello
+    Unlike other database technologies, MongoDb is a document based database that is built on the scale-out architecture. It provides horizontal scalibility which will allow high volume of data and trafic. My application with the event driven architecture has alot of calls that are made to the database, and this NoSQL database was proven to be efficient and most useful.
   </blockquote>
   <b>GitHub</b>
   <blockquote>
-    Hello
+    GitHub is an open source code reopsitory that uses the git technology for revision controls and runs in command line interface. It is the most popular source control software in the world and that is due to the simplicity and professinal look that the website has. It is simple to use both as a developer and as a user who is just viewing code. I used GitHub in order to simply store my code online and connect my clouds to my repository in order to deploy.
   </blockquote>
  </details>
  <h1>High-level Functional and Non-functional Requirements</h1>
