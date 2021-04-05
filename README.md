@@ -1,6 +1,6 @@
 # iHeartRate <img height="25px" src="Photo/Icon.png">
 <p align="center">
-  <img width="60%" src="Photo/Logo.png">
+  <img width="60%" src="img/tech.PNG">
 </p>
 <h1>Overview </h1>
 <h3>Description</h3>
