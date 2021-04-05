@@ -4,7 +4,9 @@
 </p>
 <h1>Overview </h1>
 <h3>Description</h3>
-Esports is a popular industry today, it is defined as the competitive scene of video games online and a lot of people love to compete in such places. The Esports Tournament Website, is an online web application that will help users online connect with friends, make teams, and compete in a high-level setting. The user will be able to create their own profile and either make a team or join one.  On the admin side of the webpage, admins will be able to create leagues for these players so the teams can join and compete to win prizes and gain popularity among the ranks.
+Competitive Esports is a form of sports competition that includes videogames. It involves professional players from all around the globe that compete against one another for trophies and prize pools. This creates a problem with non-professional players who love the competition but are not skillful enough to play at a professional level. This problem has gotten a lot of attention recently due to Esports growing rapidly and the amount of casual players growing with it as well, all of these casual players don’t have a setting to play in and the Esports Tournament Website is an example of a solution to this growing problem. 
+
+The Esports Tournament Website, is an online web application that will help users online connect with friends, make teams, and compete in a high-level setting. The user will be able to create their own profile and either make a team or join one.  On the admin side of the webpage, admins will be able to create leagues for these players so the teams can join and compete to win prizes and gain popularity among the ranks.
 <h3>Technologies Used</h3>
 <p align="center">
   <img width="60%" src="img/tech.PNG">
