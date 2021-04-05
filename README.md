@@ -98,3 +98,15 @@ To deploy the application, Heroku supports these Spring Boot and was chosen due 
   <img width="60%" src="img/sitemap.png">
 </p>
 
+<h1>Risks and Challanges</h1>
+<h3>Risks</h3>
+The main risks going into the development of this application was designing and approaching the implementation of this project while using technologies that were completely new to me as well as a Software Architecture such as Event-Driven Architecture
+<h3>Challanges</h3>
+As a senior and graduating, time restriction took a toll on my project. Other classes and job searching/ interview prepping was time consuming and was hurting the development of this application.
+<h3>Overcoming the Issues</h3>
+In order to pass risks, you cant be scared to take them and as a developer that is the quality that I like most about myself. I look at what I am the least good at and will learn it till I can talk about it naturally. Studying react, looking at examples and documentaion for hours at a time helped me with learning this technology. While this made time restriction challange bigger, it was a small price to pay for sharpening the skills as a developer.
+<h1>Outstanding Issues</h1>
+<h3>Rendering</h3>
+The application itself is slow and I consider this to be an issue, it takes a minute for the application to be fully functional once rendered. 
+<h3>Declearing a League Winner</h3>
+Currently the application declears a winnder but does not display it, this functionality was restricted due to time restriction. 
