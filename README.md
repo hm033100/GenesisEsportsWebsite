@@ -22,4 +22,28 @@ The Esports Tournament Website, is an online web application that will help user
   <blockquote>
     Spring is one of the most popular Java-Based frameworks to build enterprise applications, different from other frameworks that focus on only a single area of development Spring Framework will allow a user a veriety of features such as: REST, XML/Annotation/Java based configuration, bean injetion and many more. I used Spring Boot to build my REST service which was simple and clear to use. 
   </blockquote>
+  <b>AWS Amplify</b>
+  <blockquote>
+    Hello
+  </blockquote>
+  <b>Heroku</b>
+  <blockquote>
+    Hello
+  </blockquote>
+  <b>Node.JS</b>
+  <blockquote>
+    Hello
+  </blockquote>
+  <b>Visual Studio Code</b>
+  <blockquote>
+    Hello
+  </blockquote>
+  <b>MongoDB</b>
+  <blockquote>
+    Hello
+  </blockquote>
+  <b>GitHub</b>
+  <blockquote>
+    Hello
+  </blockquote>
   
