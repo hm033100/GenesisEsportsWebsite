@@ -47,4 +47,5 @@ The Esports Tournament Website, is an online web application that will help user
     Hello
   </blockquote>
  </details>
-  <h3>Why These?</h3>
+ <h1>High-level Functional and Non-functional Requirements</h1>
+  <h3>High-Level Requirements</h3>
