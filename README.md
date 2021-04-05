@@ -1,4 +1,4 @@
-# iHeartRate <img height="25px" src="img/tech.PNG">
+# GenesisEsports <img height="25px" src="img/tech.PNG">
 <p align="center">
   <img width="60%" src="img/tech.PNG">
 </p>
