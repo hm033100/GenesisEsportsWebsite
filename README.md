@@ -46,5 +46,5 @@ The Esports Tournament Website, is an online web application that will help user
   <blockquote>
     Hello
   </blockquote>
+ </details>
   <h3>Why These?</h3>
-  
