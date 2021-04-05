@@ -7,7 +7,7 @@
 Esports is a popular industry today, it is defined as the competitive scene of video games online and a lot of people love to compete in such places. The Esports Tournament Website, is an online web application that will help users online connect with friends, make teams, and compete in a high-level setting. The user will be able to create their own profile and either make a team or join one.  On the admin side of the webpage, admins will be able to create leagues for these players so the teams can join and compete to win prizes and gain popularity among the ranks.
 <h3>Technologies Used</h3>
 <p align="center">
-  <img width="60%" src="https://mpng.subpng.com/20180604/pol/kisspng-react-javascript-angularjs-ionic-atom-5b154be6709500.6532453515281223424611.jpg">
+  <img width="60%" src="img/tech.png">
 </p>
 <h3>Why These?</h3>
 <details>
